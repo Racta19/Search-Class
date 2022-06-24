@@ -1,0 +1,10 @@
+.search-box{
+    -webkit-appearance: none;
+    border: none;
+    margin-top: 1.7rem;
+    outline: none;
+    padding: 10px;
+    width: 36rem;
+    line-height: 2.4rem;
+    margin-bottom: 2.4rem;
+}
